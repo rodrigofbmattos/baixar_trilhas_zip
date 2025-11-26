@@ -14,3 +14,5 @@ Para instalar o pacote **requests**, use o comando: `pip install requests`.
 O **tqdm** é uma biblioteca que serve para exibir barras de progresso elegantes, rápidas e simples em loops no Python.
 
 Para instalar o pacote **tqdm**, use o comando: `pip install tqdm`.
+
+OBS.: O programa que roda este script precisa ser executado como administrador. (Inclusive se executado no Prompt de Comando)
